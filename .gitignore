@@ -1,2 +1,4 @@
-DropwizardHelloWorld/target/*
+/.idea/workspace.xml
+/.idea/tasks.xml
+/DropwizardHelloWorld/target/*
 .DS_Store
